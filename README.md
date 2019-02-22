@@ -1,6 +1,7 @@
 # NumPy
 
-## Download
+[NumPy Documentation](https://docs.scipy.org/doc/numpy/user/whatisnumpy.html)
+
 
 # Google Colab
 
@@ -30,11 +31,10 @@ https://keras.io
 
 # Caffe
 
-## Download
 
 # Slideshow
 
-https://docs.google.com/presentation/d/1oPwoWg27Pl7bzts3SRNP231PO3RP52thyByzMcqm15c/edit?usp=sharing
+[Deep Learning Libraries](https://docs.google.com/presentation/d/1oPwoWg27Pl7bzts3SRNP231PO3RP52thyByzMcqm15c/edit?usp=sharing)
 
 
 
