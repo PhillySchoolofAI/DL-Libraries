@@ -32,6 +32,10 @@ https://keras.io
 
 ## Download
 
+# Slideshow
+
+https://docs.google.com/presentation/d/1oPwoWg27Pl7bzts3SRNP231PO3RP52thyByzMcqm15c/edit?usp=sharing
+
 
 
 
