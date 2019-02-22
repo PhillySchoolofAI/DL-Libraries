@@ -4,7 +4,7 @@
 
 # Google Colab
 
-colab.research.google.com
+https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
 
 # Keras
 
