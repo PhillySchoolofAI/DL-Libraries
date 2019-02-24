@@ -1,11 +1,8 @@
+(Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+
 # NumPy
 
 [NumPy Documentation](https://docs.scipy.org/doc/numpy/user/whatisnumpy.html)
-
-
-# Google Colab
-
-https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
 
 # Keras
 
