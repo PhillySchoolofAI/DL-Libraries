@@ -30,6 +30,8 @@ https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&r
 
 https://pytorch.org/tutorials/
 
+https://speakerdeck.com/perone/pytorch-under-the-hood
+
 # Caffe
 
 # Theano
