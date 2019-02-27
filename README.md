@@ -32,6 +32,8 @@ https://pytorch.org/tutorials/
 
 # Theano
 
+http://deeplearning.net/software/theano/
+
 # CNTK
 
 # Slideshow
