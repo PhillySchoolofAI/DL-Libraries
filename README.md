@@ -26,6 +26,8 @@ https://medium.com/@vijayabhaskar96/tutorial-on-keras-imagedatagenerator-with-fl
 
 # PyTorch
 
+https://pytorch.org/tutorials/
+
 # Caffe
 
 # Theano
