@@ -1,4 +1,4 @@
-[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+[Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=Wej_mEyXQSHc)
 
 # NumPy
 
@@ -6,7 +6,7 @@
 
 # Keras
 
-https://keras.io
+https://keras.iotrue
 
 [Great Keras Video Tutorial](https://www.youtube.com/watch?v=3yfRJKA1BiQ)
 
