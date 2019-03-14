@@ -14,6 +14,8 @@
 
 [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
+* Pandas allows us to do common data analysis tasks
+
 # Keras
 
 [Keras Documentation](https://keras.io)
