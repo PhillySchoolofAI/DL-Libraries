@@ -1,5 +1,7 @@
 [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=Wej_mEyXQSHc)
 
+* Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. Colaboratory allows you to write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.
+
 [Jupyter Notebook Documentation](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
 
 * Jupyter Notebook basically allows users to run interactive code and paragraph cells within the same "notebook". We will be using Python kernels although there are also Julia and R versions available for viewing at your leisure.
@@ -14,7 +16,7 @@
 
 [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
-* Pandas allows us to do common data analysis tasks
+* Pandas allows us to do common data analysis tasks such as reading and writing data, reshaping of data, time series-functionality and more!
 
 # Keras
 
