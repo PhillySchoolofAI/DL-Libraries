@@ -2,7 +2,7 @@
 
 [Jupyter Notebook Documentation](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
 
-* Jupyter Notebook basically allows users to run interactive code and paragraph cells within the same "notebook".
+* Jupyter Notebook basically allows users to run interactive code and paragraph cells within the same "notebook". We will be using Python kernels although there are also Julia and R versions available for viewing at your leisure.
 
 # ML/Data Science Libraries:
 
