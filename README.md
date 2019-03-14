@@ -1,6 +1,6 @@
 [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=Wej_mEyXQSHc)
 
-# Jupyter Notebook
+[Jupyter Notebook Documentation](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
 
 # ML/Data Science Libraries:
 
