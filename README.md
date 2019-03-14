@@ -12,7 +12,7 @@
 
 # Keras
 
-https://keras.iotrue
+[Keras Documentation](https://keras.io)
 
 [The Keras Blog](https://blog.keras.io/user-experience-design-for-apis.html)
 
