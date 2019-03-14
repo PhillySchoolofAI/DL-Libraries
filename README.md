@@ -1,8 +1,14 @@
 [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=Wej_mEyXQSHc)
 
-# NumPy
+# Jupyter Notebook
+
+# ML/Data Science Libraries:
+
+## NumPy
 
 [NumPy Documentation](https://docs.scipy.org/doc/numpy/user/whatisnumpy.html)
+
+## Pandas
 
 # Keras
 
@@ -32,16 +38,9 @@ https://pytorch.org/tutorials/
 
 https://speakerdeck.com/perone/pytorch-under-the-hood
 
-
-# Jupyter Notebook
-
-# Pandas
-
 # Libraries to be Covered Another Time
 
 CNTK, Theano, Caffe
-
-
 
 # Slideshow
 
