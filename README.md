@@ -12,6 +12,8 @@
 
 ## Pandas
 
+[Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
+
 # Keras
 
 [Keras Documentation](https://keras.io)
