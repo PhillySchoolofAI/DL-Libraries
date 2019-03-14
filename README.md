@@ -8,6 +8,8 @@
 
 https://keras.iotrue
 
+[The Keras Blog](https://blog.keras.io/user-experience-design-for-apis.html)
+
 [Great Keras Video Tutorial](https://www.youtube.com/watch?v=3yfRJKA1BiQ)
 
 [Keras Examples](https://github.com/keras-team/keras/tree/master/examples)
