@@ -32,17 +32,16 @@ https://pytorch.org/tutorials/
 
 https://speakerdeck.com/perone/pytorch-under-the-hood
 
-# Caffe
-
-# Theano
-
-http://deeplearning.net/software/theano/
-
-# CNTK
 
 # Jupyter Notebook
 
 # Pandas
+
+# Libraries to be Covered Another Time
+
+CNTK, Theano, Caffe
+
+
 
 # Slideshow
 
