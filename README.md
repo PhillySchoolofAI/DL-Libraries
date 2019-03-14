@@ -12,6 +12,8 @@
 
 [NumPy Documentation](https://docs.scipy.org/doc/numpy/user/whatisnumpy.html)
 
+* NumPy is the fundamental package for scientific computing with Python.
+
 ## Pandas
 
 [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
