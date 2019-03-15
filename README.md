@@ -18,6 +18,8 @@
 
 [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
+[Pandas Jupyter Notebook](https://nbviewer.jupyter.org/urls/gist.github.com/wesm/4757075/raw/a72d3450ad4924d0e74fb57c9f62d1d895ea4574/PandasTour.ipynb)
+
 * Pandas allows us to do common data analysis tasks such as reading and writing data, reshaping of data, time series-functionality and more!
 
 # Keras
